@@ -1,14 +1,13 @@
 #include<stdio.h>
 
-/**
- *
- *  * main - Entry point
- *
- *   * description: code to print a program
- *
- *    * Return: Always 0 (Success)
- *
- *     */
+/*
+ 
+   * main - Entry point
+ 
+    * description: code to print a program
+ 
+     * Return: Always 0 (Success)
+      */
 
 int main(void)
 
