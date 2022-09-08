@@ -1,11 +1,17 @@
-#include<stdio.h>
-
-/**
-    * description: code to print a program
+/*
+ *   File: 4-puts.c
+ *   Auth: Rabiu Olajide Kamoru
  */
 
-int main(void)
+#include <stdio.h>
 
+/**
+ *   main - Prints "Programming is like building a multilingual
+ *                  puzzle, followed by a new line.
+ *  
+ *   Return: Always 0.
+ */
+int main(void)
 {
 		puts("\"Programming is like building a multilingual puzzle");
 
