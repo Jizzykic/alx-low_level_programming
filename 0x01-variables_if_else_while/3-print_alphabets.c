@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /*
- * main - Prints the alphabets "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ"
+ * main - Prints the alphabets a-z..A-Z
  *
  * Return: Always 0 (Success)
  */
