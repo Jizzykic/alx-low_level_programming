@@ -1,8 +1,8 @@
 #include <stdio.h>
 
-/*
- * main - Prints the alphabets a-z..A-Z
- *
+/**
+ * main - Entry point
+ * description - Prints the alphabets a-z..A-Z
  * Return: Always 0 (Success)
  */
 int main(void)
