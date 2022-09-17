@@ -1,10 +1,9 @@
 #include <stdio.h>
-
 /**
- * main - main function
- *
- * Return: nothing
- */
+* main - main function
+*
+* Return: nothing
+*/
 int main(void)
 {
 	int counter = 2;
@@ -22,7 +21,7 @@ int main(void)
 		c = a + b;
 		if (counter < 50)
 		{
-			 printf(", ");
+			printf(", ");
 		}
 	}
 	printf("\n");
